@@ -44,5 +44,10 @@ var projects = {
 		"image":"",
 		"team":"WeConnect",
 		"link":"https://github.com/Aviral190694/HackInTheNorth-WeConnect.git"
+	},
+	"no_ones":{
+		"image":"images/no_ones.jpg",
+		"team":"no_ones",
+		"link":"https://github.com/baishalis/person_search"
 	}
 }
